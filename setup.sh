@@ -7,3 +7,5 @@ ln -sv DIR/.i3 ~/.i3
 ln -sv DIR/.screenlayout ~/.screenlayout
 ln -sv DIR/.vim ~/.vim
 ln -sv DIR/.vimrc ~/.vimrc
+
+ln -sv DIR/redshift.conf ~/.config/redshift.conf
