@@ -164,9 +164,15 @@ exec --no-startup-id redshift-gtk
 # Restore Wallpaper
 exec --no-startup-id nitrogen --restore
 
+# Start nm-applet
+exec --no-startup-id nm-applet
+
+
 # Custom Binds
 bindsym $mod+KP_Add exec amixer -q set Master 2dB+ unmute
 bindsym $mod+KP_Subtract exec amixer -q set Master 2dB- unmute
+bindsym $mod+Print exec gnome-screenshot -a
+
 
 # Power Menu
 # Add a small delay to prevent suspend races
