@@ -1,0 +1,8 @@
+include ~/.config/sway/config.d/00-base.conf
+include ~/.config/sway/config.d/01-hotkeys.conf
+include ~/.config/sway/config.d/02-mouse.conf
+include ~/.config/sway/config.d/03-appearance.conf
+
+include ~/.config/sway/config.d/09-bar.conf
+include ~/.config/sway/config.d/10-apps.conf
+

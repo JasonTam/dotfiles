@@ -1,0 +1,6 @@
+
+export BEMENU_BACKEND=wayland
+export MOZ_ENABLE_WAYLAND=1
+
+export BB_CACHE_DIR=/media/shariki/cache
+

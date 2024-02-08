@@ -1,0 +1,6 @@
+
+
+ alias code='code \
+ --enable-features=UseOzonePlatform,WaylandWindowDecorations \
+ --ozone-platform-hint=auto \
+ --log warning'
